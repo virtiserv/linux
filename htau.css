@@ -398,7 +398,7 @@ pre {
   border-radius: 12px;
   word-wrap: normal;
   overflow: auto;
-  overflow-y: hidden;
+  
 }
 
 code.highlighter-rouge {

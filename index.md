@@ -19,12 +19,6 @@ mermaid: true
 </div> 
 
 
-{% highlight ruby %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE#########################VirtiservLatrice#####
-{% endhighlight %}
 
 
 
@@ -42,12 +36,25 @@ mermaid: true
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lanajharris/video/7098335979173465386" data-video-id="7098335979173465386" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@lanajharris" href="https://www.tiktok.com/@lanajharris?refer=embed">@lanajharris</a> When you’re an interracial couple and he understands the assignment 👏🏽 <a title="couplegoals" target="_blank" href="https://www.tiktok.com/tag/couplegoals?refer=embed">#couplegoals</a> <a title="funny" target="_blank" href="https://www.tiktok.com/tag/funny?refer=embed">#funny</a> <a title="funnysong" target="_blank" href="https://www.tiktok.com/tag/funnysong?refer=embed">#funnysong</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="foryou" target="_blank" href="https://www.tiktok.com/tag/foryou?refer=embed">#foryou</a> <a title="foryoupage" target="_blank" href="https://www.tiktok.com/tag/foryoupage?refer=embed">#foryoupage</a> <a title="interracial" target="_blank" href="https://www.tiktok.com/tag/interracial?refer=embed">#interracial</a> <a title="interracialcouple" target="_blank" href="https://www.tiktok.com/tag/interracialcouple?refer=embed">#interracialcouple</a> <a title="relationshipgoals" target="_blank" href="https://www.tiktok.com/tag/relationshipgoals?refer=embed">#relationshipgoals</a> <a title="iykyk" target="_blank" href="https://www.tiktok.com/tag/iykyk?refer=embed">#iykyk</a> <a title="humor" target="_blank" href="https://www.tiktok.com/tag/humor?refer=embed">#humor</a> <a title="funnyvideos" target="_blank" href="https://www.tiktok.com/tag/funnyvideos?refer=embed">#funnyvideos</a> <a title="hairstyle" target="_blank" href="https://www.tiktok.com/tag/hairstyle?refer=embed">#hairstyle</a> <a title="couplestiktok" target="_blank" href="https://www.tiktok.com/tag/couplestiktok?refer=embed">#couplestiktok</a> <a target="_blank" title="♬ Funny Song - Sounds Reel" href="https://www.tiktok.com/music/Funny-Song-6732536571318257666?refer=embed">♬ Funny Song - Sounds Reel</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 
-[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY) // [Rico Nasty - Animal (Prod By. Mel-O-Dee)](https://youtu.be/bUZEaXgFYqM?si=vLCMjW3zBOO2Vxcd) // [Perfect Match · Cella Dwellas @doug-newman-nasa](https://youtu.be/5WHySdRlcUE?si=9Ds5oZPwNV7XzlU3)
+[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY) // [Rico Nasty - Animal (Prod By. Mel-O-Dee)](https://youtu.be/bUZEaXgFYqM?si=vLCMjW3zBOO2Vxcd) // [Perfect Match · Cella Dwellas @doug-newman-nasa](https://youtu.be/5WHySdRlcUE?si=9Ds5oZPwNV7XzlU3) // [Bonobo ft Szjerdene - Get Thy Bearings](https://youtu.be/4-mWpknZ6Ls)
 
 ---
 
 ## Rashard Kelly 
- MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv.github.io/linux](https://virtiserv.github.io/linux/)
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE#########################VirtiservLatrice#####
+{% endhighlight %}
+
+
+
+@nasa-pds @nasa-jpl voyager is transmitting on 3 dishes in goldstone 24,25,26 hi @whitehouse Kim Bryant @blackgirlscode [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/db33f0c5-fb5e-47ed-877f-669a00c96741" />
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ff698200-69e1-455c-a0ad-7ed66a863887" />
 
