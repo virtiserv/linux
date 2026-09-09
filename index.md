@@ -49,7 +49,7 @@ mermaid: true
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
-@nasa-pds @nasa-jpl voyager is transmitting on 3 dishes in goldstone 24,25,26 hi @whitehouse Kim Bryant @blackgirlscode
+@nasa-pds @nasa-jpl voyager is transmitting on 3 dishes in goldstone 24,25,26 hi @whitehouse Kim Bryant @blackgirlscode [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 <img   alt="image" src="https://github.com/user-attachments/assets/db33f0c5-fb5e-47ed-877f-669a00c96741" />
 
 
